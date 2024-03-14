@@ -9,11 +9,13 @@ For meterpreter logs:
 1.  It excludes the bg and help commands since those are usually useless
 2.  Just click on the On? checkbox and it would auto to "meterpreter", which would get the line after the meterpreter line
 3.  When you are ready you can just click on "Output To File" and it would write to a file named "test.log" in the pwd where the exe was executed
+
 ![Alt text](screenshot/filter_meterpreter.png?raw=true "Title")
 
 For any other logs:
 1. Just click on the On? checkbox and type in the text you want for e.g. in the below i want any lines that contains "getuid"
 2. When you are ready you can just click on "Output To File" and it would write to a file named "test.log" in the pwd where the exe was executed
+
 ![Alt text](screenshot/filtering_others.png?raw=true "Title")
 
 ## Description:
