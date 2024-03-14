@@ -1,0 +1,32 @@
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.exe
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.deps.json
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.runtimeconfig.json
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.dll
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.pdb
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.Form1.resources
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.csproj.GenerateResource.cache
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.AssemblyInfoInputs.cache
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.AssemblyInfo.cs
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.csproj.CoreCompileInputs.cache
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.dll
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\refint\Temp.dll
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.pdb
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.genruntimeconfig.cache
+C:\Users\dest004\Desktop\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\ref\Temp.dll
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.exe
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.deps.json
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.runtimeconfig.json
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.dll
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\bin\Debug\net8.0-windows\Temp.pdb
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.Form1.resources
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.csproj.GenerateResource.cache
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.AssemblyInfoInputs.cache
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.AssemblyInfo.cs
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.csproj.CoreCompileInputs.cache
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.dll
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\refint\Temp.dll
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.pdb
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\Temp.genruntimeconfig.cache
+C:\Users\dest004\Desktop\DART - Red Team\(10) Purple Team Final Exercise\(0) RED TEAM\ParseLogs\Temp\Temp\obj\Debug\net8.0-windows\ref\Temp.dll
