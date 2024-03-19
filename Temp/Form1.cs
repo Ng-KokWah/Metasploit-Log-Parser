@@ -112,6 +112,22 @@ namespace Temp
                 for (int i = 0; i < temp.Count; i++)
                     output.Text += temp[i] + "\r\n";
             }
+            else
+            {
+                output.Text += Path.GetFileName(file) + "]\r\n";
+                try
+                {
+                    string[] contents = System.IO.File.ReadAllLines(file);
+                    for (int i = 0; i < contents.Length; i++)
+                    {
+                        output.Text += contents[i] + "\r\n";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error reading log file: " + ex.Message);
+                }
+            }
         }
     }
 }
